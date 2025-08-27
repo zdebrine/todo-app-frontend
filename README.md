@@ -1,4 +1,4 @@
-# Nooro Frontend
+# Todo app Frontend
 
 A Next.js 15 (App Router) + TypeScript + Tailwind CSS frontend for the **Nooro** task app.  
 This project connects to an [Express.js backend](<BACKEND_REPO_URL>) for managing tasks.
